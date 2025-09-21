@@ -20,3 +20,13 @@
 - `exercicio009.js`: Escreva um programa que recebe um número e verifica se ele é positivo, negativo ou zero.
 
 - `exercicio010.js`: Escreva um programa que recebe duas notas de um aluno, calcula a média e imprime se o aluno foi aprovado ou reprovado (considerando que a média para aprovação é 7).
+
+- `exercicio011.js`: Escreva um programa que verifica se uma pessoa pode votar com base na idade.
+
+- `exercicio012.js`: Escreva um programa que verifica a situação de um estudante de acordo com sua média final.
+
+- `exercicio013.js`: Escreva um programa que calcula o IMC (Índice de Massa Corporal) de uma pessoa e imprime uma mensagem indicando se a pessoa está abaixo do peso, com peso normal, com sobrepeso ou obesa.
+
+- `exercicio014.js`: Escreva um programa que verifica se um ano é bissexto.
+
+- `exercicio015.js`: Escreva um programa que verifica se uma palavra é um palíndromo.
