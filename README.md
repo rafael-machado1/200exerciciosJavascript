@@ -30,3 +30,15 @@
 - `exercicio014.js`: Escreva um programa que verifica se um ano é bissexto.
 
 - `exercicio015.js`: Escreva um programa que verifica se uma palavra é um palíndromo.
+
+- `exercicio016.js`: Escreva um programa que determina o maior entre três números.
+
+- `exercicio017.js`: Escreva um programa que determina se um número é par ou ímpar.
+
+- `exercicio018.js`: Escreva um programa que verifica se uma pessoa pode dirigir com base na idade.
+
+- `exercicio019.js`: Escreva um programa que verifica se um número está dentro de um determinado intervalo.
+
+- `exercicio020.js`: Escreva um programa que imprime uma classificação baseada na nota de um aluno.
+
+- `exercicio021.js`: Escreva um programa que determina a estação do ano com base no mês.
