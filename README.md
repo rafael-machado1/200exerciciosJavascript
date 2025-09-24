@@ -42,3 +42,21 @@
 - `exercicio020.js`: Escreva um programa que imprime uma classificação baseada na nota de um aluno.
 
 - `exercicio021.js`: Escreva um programa que determina a estação do ano com base no mês.
+
+- `exercicio022.js`: Escreva um programa que determina o número de dias em um mês.
+
+- `exercicio023.js`: Escreva um programa que verifica as cores de um semáforo.
+
+- `exercicio024.js`: Usando um laço for, imprima os números de 1 a 10.
+
+- `exercicio025.js`: Usando um laço while, imprima os números de 10 a 1 (em ordem decrescente).
+
+- `exercicio026.js`: Usando um laço do-while, imprima todos os números ímpares de 1 a 20.
+
+- `exercicio027.js`: Usando um laço for, imprima a tabuada de multiplicação do número 5.
+
+- `exercicio028.js`: Usando um laço while, calcule e imprima a soma de todos os números de 1 a 100.
+
+- `exercicio029.js`: Usando um laço do-while, imprima todos os números pares de 1 a 100.
+
+- `exercicio030.js`: Usando um laço for, imprima todos os números primos de 1 a 100.
