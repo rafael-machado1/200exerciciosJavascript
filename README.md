@@ -60,3 +60,13 @@
 - `exercicio029.js`: Usando um laço do-while, imprima todos os números pares de 1 a 100.
 
 - `exercicio030.js`: Usando um laço for, imprima todos os números primos de 1 a 100.
+
+- `exercicio031.js`: Usando um laço while, crie um programa que adivinha um número que o usuário pensou, através do método de busca binária.
+
+- `exercicio032.js`: Usando  um laço do-while, crie um jogo de "Pedra, papel e tesoura" contra o computador
+
+- `exercicio033.js`: Usando um laço for, imprima os primeiros 10 números da sequência de Fibonacci.
+
+- `exercicio034.js`: Usando um laço while, imprima os números de 1 a 100, mas para múltiplos de 3 imprima "Fizz" e para múltiplos de 5 imprima "Buzz". Para números que são múltiplos de ambos, imprima "FizzBuzz" (Problema FizzBuzz).
+
+- `exercicio035.js`: Usando um laço for, imprima os primeiros 10 números triangulares (n*(n+1)/2).
