@@ -1,0 +1,1 @@
+//Usando um laço do-while, crie um programa que transforme um número decimal em binário.

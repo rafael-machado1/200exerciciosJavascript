@@ -1,0 +1,1 @@
+//Usando um laço for, crie um programa que transforme um número binário em decimal.
