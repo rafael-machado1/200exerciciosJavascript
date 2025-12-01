@@ -1,0 +1,1 @@
+// Escreva uma função que aceite dois números como argumentos e retorne sua soma.
